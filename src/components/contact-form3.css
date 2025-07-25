@@ -1,0 +1,46 @@
+.contact-form3-contact9 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}
+ 
+.contact-form3-text1 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.contact-form3-text2 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.contact-form3-text3 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.contact-form3-text4 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.contact-form3-text5 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.contact-form3-text6 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.contact-form3root-class-name {
+  fill: #e79c03;
+  color: #e79c03;
+  background-color: #000000;
+}

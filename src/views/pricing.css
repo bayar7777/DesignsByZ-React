@@ -1,0 +1,322 @@
+.pricing-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.pricing-text10 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.pricing-text11 {
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.pricing-text12 {
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.pricing-text13 {
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.pricing-text14 {
+  display: inline-block;
+}
+ 
+.pricing-text15 {
+  display: inline-block;
+}
+ 
+.pricing-text16 {
+  display: inline-block;
+}
+ 
+.pricing-text17 {
+  display: inline-block;
+}
+ 
+.pricing-text18 {
+  display: inline-block;
+}
+ 
+.pricing-text19 {
+  display: inline-block;
+}
+ 
+.pricing-text20 {
+  display: inline-block;
+}
+ 
+.pricing-text21 {
+  display: inline-block;
+}
+ 
+.pricing-text22 {
+  display: inline-block;
+}
+ 
+.pricing-text23 {
+  display: inline-block;
+}
+ 
+.pricing-text24 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text25 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text26 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text27 {
+  display: inline-block;
+}
+ 
+.pricing-text28 {
+  display: inline-block;
+}
+ 
+.pricing-text29 {
+  display: inline-block;
+}
+ 
+.pricing-text30 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+ 
+.pricing-text31 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+  font-size: 22px;
+  font-weight: 100;
+  text-transform: capitalize;
+}
+ 
+.pricing-text32 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text33 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text34 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text35 {
+  color: #000000;
+  display: inline-block;
+}
+ 
+.pricing-text36 {
+  display: inline-block;
+}
+ 
+.pricing-text37 {
+  display: inline-block;
+}
+ 
+.pricing-text38 {
+  display: inline-block;
+}
+ 
+.pricing-text39 {
+  display: inline-block;
+}
+ 
+.pricing-text40 {
+  display: inline-block;
+}
+ 
+.pricing-text41 {
+  display: inline-block;
+}
+ 
+.pricing-text42 {
+  display: inline-block;
+}
+ 
+.pricing-text43 {
+  display: inline-block;
+}
+ 
+.pricing-text44 {
+  display: inline-block;
+}
+ 
+.pricing-text45 {
+  display: inline-block;
+}
+ 
+.pricing-text46 {
+  display: inline-block;
+}
+ 
+.pricing-text47 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text48 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text49 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text51 {
+  color: #e79c03;
+}
+ 
+.pricing-text53 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text54 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text55 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text57 {
+  color: #e79c03;
+}
+ 
+.pricing-text59 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text60 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text61 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text62 {
+  display: inline-block;
+}
+ 
+.pricing-text63 {
+  display: inline-block;
+}
+ 
+.pricing-text64 {
+  display: inline-block;
+}
+ 
+.pricing-text65 {
+  display: inline-block;
+}
+ 
+.pricing-text66 {
+  display: inline-block;
+}
+ 
+.pricing-text67 {
+  display: inline-block;
+}
+ 
+.pricing-text68 {
+  display: inline-block;
+}
+ 
+.pricing-text69 {
+  display: inline-block;
+}
+ 
+.pricing-text70 {
+  display: inline-block;
+}
+ 
+.pricing-text71 {
+  display: inline-block;
+}
+ 
+.pricing-text72 {
+  display: inline-block;
+}
+ 
+.pricing-text73 {
+  display: inline-block;
+}
+ 
+.pricing-text74 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+  font-size: 30px;
+}
+ 
+.pricing-text75 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text76 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text77 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text78 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.pricing-text80 {
+  font-size: 16px;
+}
+ 
+.pricing-text82 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.pricing-text83 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.pricing-text84 {
+  color: #e79c03;
+  display: inline-block;
+}

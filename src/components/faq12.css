@@ -1,0 +1,57 @@
+.faq12faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.faq12-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.faq12-content2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.faq12-container {
+  display: flex;
+  position: relative;
+}
+ 
+.faq12-button {
+  text-decoration: none;
+}
+ 
+.faq12-text2 {
+  display: inline-block;
+}
+ 
+.faq12-text3 {
+  display: inline-block;
+}
+ 
+.faq12root-class-name {
+  fill: #e79c03;
+  color: #e79c03;
+  background-color: #000000;
+}
+ 
+@media(max-width: 991px) {
+  .faq12-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .faq12-button {
+    width: 100%;
+  }
+}

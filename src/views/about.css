@@ -1,0 +1,192 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.about-text10 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.about-text11 {
+  font-size: 26px;
+}
+ 
+.about-text13 {
+  color: #e79c03;
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.about-text14 {
+  color: #e79c03;
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.about-text15 {
+  color: #e79c03;
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.about-text16 {
+  display: inline-block;
+}
+ 
+.about-text17 {
+  display: inline-block;
+}
+ 
+.about-text18 {
+  display: inline-block;
+}
+ 
+.about-text19 {
+  display: inline-block;
+}
+ 
+.about-text20 {
+  display: inline-block;
+}
+ 
+.about-text21 {
+  display: inline-block;
+}
+ 
+.about-text22 {
+  display: inline-block;
+}
+ 
+.about-text23 {
+  display: inline-block;
+}
+ 
+.about-text24 {
+  display: inline-block;
+}
+ 
+.about-text25 {
+  display: inline-block;
+}
+ 
+.about-text26 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+ 
+.about-text40 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: #e79c03;
+  display: inline-block;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+ 
+.about-text41 {
+  display: inline-block;
+}
+ 
+.about-text42 {
+  display: inline-block;
+}
+ 
+.about-text43 {
+  display: inline-block;
+}
+ 
+.about-text44 {
+  display: inline-block;
+}
+ 
+.about-text45 {
+  display: inline-block;
+}
+ 
+.about-text46 {
+  color: rgb(231, 156, 3);
+  display: inline-block;
+}
+ 
+.about-text47 {
+  display: inline-block;
+}
+ 
+.about-text48 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.about-text49 {
+  display: inline-block;
+}
+ 
+.about-text50 {
+  display: inline-block;
+}
+ 
+.about-text51 {
+  display: inline-block;
+}
+ 
+.about-text52 {
+  display: inline-block;
+}
+ 
+.about-text53 {
+  display: inline-block;
+}
+ 
+.about-text54 {
+  display: inline-block;
+}
+ 
+.about-text55 {
+  display: inline-block;
+}
+ 
+.about-text56 {
+  display: inline-block;
+}
+ 
+.about-text57 {
+  display: inline-block;
+}
+ 
+.about-text58 {
+  display: inline-block;
+}
+ 
+.about-text59 {
+  display: inline-block;
+}
+ 
+.about-text60 {
+  display: inline-block;
+}
+ 
+.about-text61 {
+  display: inline-block;
+}
+ 
+.about-text62 {
+  display: inline-block;
+}
+ 
+.about-text63 {
+  display: inline-block;
+}
+ 
+.about-text64 {
+  display: inline-block;
+}
+ 
+.about-text65 {
+  color: #e79c03;
+  display: inline-block;
+}

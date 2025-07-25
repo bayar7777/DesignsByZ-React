@@ -1,0 +1,121 @@
+.contact3-contact20 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-color: #000000;
+}
+ 
+.contact3-max-width {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact3-section-title {
+  gap: var(--dl-layout-space-unit);
+  width: auto;
+  display: flex;
+  max-width: 800px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.contact3-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact3-text2 {
+  text-align: center;
+}
+ 
+.contact3-row {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.contact3-content2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact3-icon1 {
+  fill: #e79c03;
+  color: #e79c03;
+  width: 100px;
+  height: 50px;
+  border-color: #000000;
+  border-width: 1px;
+}
+ 
+.contact3-contact-info {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact3-content3 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: stretch;
+  flex-direction: column;
+}
+ 
+.contact3-link {
+  display: contents;
+}
+ 
+.contact3-text3 {
+  align-self: stretch;
+  text-align: center;
+  text-decoration: none;
+}
+ 
+.contact3-text4 {
+  text-align: center;
+}
+ 
+.contact3-text5 {
+  display: inline-block;
+}
+ 
+.contact3-text6 {
+  display: inline-block;
+}
+ 
+.contact3-text7 {
+  display: inline-block;
+}
+ 
+.contact3root-class-name {
+  fill: #e79c03;
+  color: #e79c03;
+}
+ 
+@media(max-width: 767px) {
+  .contact3-row {
+    flex-direction: column;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .contact3-row {
+    align-items: stretch;
+  }
+}

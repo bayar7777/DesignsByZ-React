@@ -1,0 +1,140 @@
+.footer4-footer7 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.footer4-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer4-credits {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer4-row {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.footer4-container {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer4-text1 {
+  color: rgb(231, 156, 3);
+}
+ 
+.footer4-footer-links {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer4-text2 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  text-decoration: none;
+}
+ 
+.footer4-text3 {
+  text-decoration: none;
+}
+ 
+.footer4-text4 {
+  text-decoration: none;
+}
+ 
+.footer4-text5 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.footer4-text6 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.footer4-text7 {
+  color: #e79c03;
+  display: inline-block;
+}
+ 
+.footer4root-class-name {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  background-color: #000000;
+}
+ 
+.footer4root-class-name1 {
+  fill: #e79c03;
+  color: #e79c03;
+  background-color: #000000;
+}
+ 
+.footer4root-class-name2 {
+  fill: #e79c03;
+  color: #e79c03;
+  background-color: #000000;
+}
+ 
+.footer4root-class-name3 {
+  fill: #e79c03;
+  color: #e79c03;
+  background-color: #000000;
+}
+ 
+.footer4root-class-name4 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  background-color: #000000;
+}
+ 
+.footer4root-class-name5 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  background-color: #000000;
+}
+ 
+.footer4root-class-name6 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  background-color: #000000;
+}
+ 
+@media(max-width: 767px) {
+  .footer4-row {
+    gap: var(--dl-layout-space-oneandhalfunits);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .footer4-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .footer4-footer-links {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
